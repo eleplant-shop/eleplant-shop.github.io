@@ -13,8 +13,8 @@ title: Eleplant
 <table>
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🌑 Eleplant Grafito</h3>
       <img src="/images/grafito.jpeg" alt="Eleplant Grafito" width="100%" />
+      <h3>🌑 Eleplant Grafito</h3>
       <p><strong>Sofisticación urbana en movimiento</strong><br />
       Su tono oscuro y textura sutil le dan un aire industrial y elegante, ideal para oficinas modernas o departamentos minimalistas. Incluye llantas discretas para facilitar el movimiento.</p>
       <ul>
@@ -24,8 +24,8 @@ title: Eleplant
       </ul>
     </td>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🤍 Eleplant Mármol Cónica</h3>
       <img src="/images/marmol-k.jpeg" alt="Eleplant Mármol Cónica" width="100%" />
+      <h3>🤍 Eleplant Mármol Cónica</h3>
       <p><strong>Elegancia estilizada con un toque natural</strong><br />
       Su forma cónica estiliza cualquier rincón y su acabado efecto mármol en tonos claros la convierte en el foco de atención sin ser invasiva.</p>
       <ul>
@@ -38,8 +38,8 @@ title: Eleplant
 
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🤍 Eleplant Mármol Cuadrada</h3>
       <img src="/images/marmol.jpeg" alt="Eleplant Mármol Cuadrada" width="100%" />
+      <h3>🤍 Eleplant Mármol Cuadrada</h3>
       <p><strong>Equilibrio y sobriedad para tus espacios</strong><br />
       Diseño cuadrado con textura de mármol en tonos suaves, perfecta para interiores sobrios que buscan un punto de distinción.</p>
       <ul>
@@ -49,8 +49,8 @@ title: Eleplant
       </ul>
     </td>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🧡 Eleplant Terracota</h3>
       <img src="/images/terracota.jpeg" alt="Eleplant Terracota" width="100%" />
+      <h3>🧡 Eleplant Terracota</h3>
       <p><strong>Calidez y carácter artesanal</strong><br />
       Inspirada en materiales tradicionales, esta maceta en tono terracota es perfecta para espacios cálidos, con interiores decorados en madera o materiales naturales.</p>
       <ul>
